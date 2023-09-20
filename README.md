@@ -1,16 +1,10 @@
-### Hi there 👋
-
-<!--
-**flekschas/flekschas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <span>I'm a computer scientist who develops interactive visualization systems for exploring and analyzing large-scale biomedical data.</span>
+  <br>
+  <br>
+  <samp>
+    <a href="https://lekschas.de">Me</a> &middot;
+    <a href="mailto:icbkykav@duck.com">Email</a> &middot;
+    <a href="https://linkedin.com/in/flekschas">LinkedIn</a>
+  </samp>
+</p>
