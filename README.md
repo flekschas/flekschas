@@ -4,7 +4,7 @@
   <br>
   <samp>
     <a href="https://lekschas.de">Me</a> &middot;
-    <a href="mailto:icbkykav@duck.com">Email</a> &middot;
+    <a href="https://email-me.lekschas.de/">Email</a> &middot;
     <a href="https://linkedin.com/in/flekschas">LinkedIn</a>
   </samp>
 </p>
