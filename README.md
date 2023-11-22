@@ -1,5 +1,5 @@
 <p align="center">
-  <span>I'm a computer scientist who develops interactive visualization systems for exploring and analyzing large-scale biomedical data.</span>
+  <span>I'm a computer scientist who develops interactive, intelligent, and insightful visualization systems for analyzing and exploring large-scale biomedical data.</span>
   <br>
   <br>
   <samp>
